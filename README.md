@@ -1,5 +1,5 @@
 # 수강 신청 시스템
-Class enrollment
+: [Oracle PL/SQL, JSP] Class enrollment
 
 ![title](./cap/title.PNG)
 
