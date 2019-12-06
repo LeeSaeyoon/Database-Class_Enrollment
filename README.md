@@ -48,6 +48,7 @@ a_id[관리자ID]를 FOREIGN KEY로 갖는다.
 - Date2EnrollYear FUNCTION: 수강신청 연도 반환
 - Date2EnrollSemester FUNCTION: 수강신청 학기 반환
 ![timetable](./cap/timetable.PNG)
+: 시간표 형태로 
 
 ### 4. 관리자
 #### 1) 수업등록
@@ -56,4 +57,4 @@ a_id[관리자ID]를 FOREIGN KEY로 갖는다.
 1. 이미 존재하는 수업 
 2. 같은 시간, 같은 요일, 같은 장소인 경우
 #### 2) 수업조회 및 삭제
-- 수강중인 학생이 있는 경우 삭제 
+: 수강중인 학생이 있는 경우 삭제 
